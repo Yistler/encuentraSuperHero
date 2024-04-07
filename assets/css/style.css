@@ -5,3 +5,9 @@ body{
 #seccionImg {
     text-align: center;
 }
+
+#section-card{
+    max-width: 100%;
+    display: flex;
+    padding: 3% 10%;
+}
